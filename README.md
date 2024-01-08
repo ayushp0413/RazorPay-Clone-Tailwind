@@ -1,2 +1,2 @@
-# RezorPay-Clone-Tailwind
-This is clone project of rezorpay website using tailwind.
+# RazorPay-Clone-Tailwind
+This is clone project of razorpay website using tailwind.
