@@ -20,6 +20,15 @@ module.exports = {
         gray2: "#525a76",
       },
 
+      backgroundImage: {
+        'wave-pattern': "url('./images/features-wave.svg')",
+      }
+
+
+
+
+
+
     },
   },
   plugins: [],

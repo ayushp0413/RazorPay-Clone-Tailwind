@@ -1,0 +1,45 @@
+
+
+
+.wave-img:hover{
+    background-image: url(./images/features-wave.svg);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position:bottom right;
+    /* box-shadow: 10px 10px 10x rgb(0,0,0); */
+}
+
+.featureCardBox:hover{
+    stroke: none;
+        
+}
+
+.corefeature{
+    background-image: url(./images/core-features-sectionBg.svg);
+    background-size: 100% 100%;
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+    padding-left:;
+}
+.companiesList{
+    animation: moveCompany 10s linear infinite ;
+}
+
+@keyframes moveCompany {
+    0%{
+        top:0;
+
+    }
+    100%{
+        top:-50%;
+
+    }
+    
+}
+
+.ctaSection{
+    background-image: url(./images/CTABg.svg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 530px;
+}
