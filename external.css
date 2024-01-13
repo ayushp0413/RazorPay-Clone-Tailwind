@@ -48,7 +48,7 @@ footer{
 background: linear-gradient(to right, #eef9fe, #edf7ff);
 background-size: 100% 100%;
 background-repeat: no-repeat;
-height: 1210px;
+height: auto;
 margin-top: -220px;
 
 }   
